@@ -18,5 +18,5 @@
   <li>git clone https://github.com/networkside/get-ip</li>
   <li>cd get-ip</li>
   <li>pip3 socket</li>
-  <li>python3 time.py</li>
+  <li>python3 myip.py</li>
 </ul>
